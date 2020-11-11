@@ -1,0 +1,374 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\bryan\OneDrive\Escritorio\Proyecto Final Unity PI2\ConoceUANL\src\main\AndroidManifest.xml:2:1-102:12
+INJECTED from C:\Users\bryan\OneDrive\Escritorio\Proyecto Final Unity PI2\ConoceUANL\src\main\AndroidManifest.xml:2:1-102:12
+INJECTED from C:\Users\bryan\OneDrive\Escritorio\Proyecto Final Unity PI2\ConoceUANL\src\main\AndroidManifest.xml:2:1-102:12
+INJECTED from C:\Users\bryan\OneDrive\Escritorio\Proyecto Final Unity PI2\ConoceUANL\src\main\AndroidManifest.xml:2:1-102:12
+MERGED from [:VuforiaWrapper:] C:\Users\bryan\.gradle\caches\transforms-2\files-2.1\4ffdfda801b4d22aef62fe634db90c4f\AndroidManifest.xml:2:1-32:12
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\bryan\.gradle\caches\transforms-2\files-2.1\02548f49cff994d3ef330aa840117f42\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\bryan\.gradle\caches\transforms-2\files-2.1\a468c56884e400f1cb8f15dbe892fbf6\AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\bryan\.gradle\caches\transforms-2\files-2.1\9a6cc72e894b8510ed89eb9fe71c2d55\AndroidManifest.xml:17:1-38:12
+MERGED from [com.google.android.gms:play-services-location:17.0.0] C:\Users\bryan\.gradle\caches\transforms-2\files-2.1\849d2c0efb70972a9247ff6585d89174\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.maps.android:android-maps-utils:0.5] C:\Users\bryan\.gradle\caches\transforms-2\files-2.1\11fe442f3bf1b300bcc3b4b60008ea11\AndroidManifest.xml:2:1-13:12
+MERGED from [com.android.volley:volley:1.1.1] C:\Users\bryan\.gradle\caches\transforms-2\files-2.1\0e0d4731c051b890f353f5c4f30652d8\AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\bryan\.gradle\caches\transforms-2\files-2.1\a22314e03cb3064bad9c3e43fc52330c\AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] C:\Users\bryan\.gradle\caches\transforms-2\files-2.1\5c87c00bcb10149d84145ec2d635bb2e\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\bryan\.gradle\caches\transforms-2\files-2.1\1bcd4843baef4e1eccd89e3f2ac91565\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\bryan\.gradle\caches\transforms-2\files-2.1\c227923a62573bea5c1f7a26a9c4b11a\AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\bryan\.gradle\caches\transforms-2\files-2.1\6f242ff5280224f64b285ca2bd43872a\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\bryan\.gradle\caches\transforms-2\files-2.1\71a3c93d14b2cc67b131b457604d694a\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\bryan\.gradle\caches\transforms-2\files-2.1\bb2ac63db8a4508049458adb0ec0bc7a\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\bryan\.gradle\caches\transforms-2\files-2.1\3637357728435a81f2ead73ece17119b\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\bryan\.gradle\caches\transforms-2\files-2.1\9d89c2af825099202f55db973ce79831\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\bryan\.gradle\caches\transforms-2\files-2.1\61ca89a17819029ba66a1bf058308c0e\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\bryan\.gradle\caches\transforms-2\files-2.1\f9294b96bca58582efc5816d1cf0521f\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\bryan\.gradle\caches\transforms-2\files-2.1\cd7b14eb71400ec267ddcc8016d7903c\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\bryan\.gradle\caches\transforms-2\files-2.1\cb5a43aa9d179f0252fce4c619ef1e72\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.1.0] C:\Users\bryan\.gradle\caches\transforms-2\files-2.1\9f3c975affe023690bbdb67ba6d424fb\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\bryan\.gradle\caches\transforms-2\files-2.1\7a89278ec8986b8ffec7978de19955d7\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\bryan\.gradle\caches\transforms-2\files-2.1\18f45981d51201ee1fc5fe9ddc74b20f\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\bryan\.gradle\caches\transforms-2\files-2.1\ce6011598d03a73f1732825542e1cf81\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\bryan\.gradle\caches\transforms-2\files-2.1\86b66a2d9996b9db8ae9a9116254fd00\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\bryan\.gradle\caches\transforms-2\files-2.1\33e02636501678b2d2b27b7bc80275f4\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\bryan\.gradle\caches\transforms-2\files-2.1\91bb6a7d531b1a5b05c28cd6267f0f34\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\bryan\.gradle\caches\transforms-2\files-2.1\2eabceee559971ea1b46c24aeccda957\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\bryan\.gradle\caches\transforms-2\files-2.1\ba6dfec165e21d69bf590e13627fcced\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\bryan\.gradle\caches\transforms-2\files-2.1\0e35912e4e7df6052c75bf6862b6149a\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\bryan\OneDrive\Escritorio\Proyecto Final Unity PI2\ConoceUANL\src\main\AndroidManifest.xml:2:1-102:12
+INJECTED from C:\Users\bryan\OneDrive\Escritorio\Proyecto Final Unity PI2\ConoceUANL\src\main\AndroidManifest.xml:2:1-102:12
+INJECTED from C:\Users\bryan\OneDrive\Escritorio\Proyecto Final Unity PI2\ConoceUANL\src\main\AndroidManifest.xml:2:1-102:12
+	package
+		ADDED from C:\Users\bryan\OneDrive\Escritorio\Proyecto Final Unity PI2\ConoceUANL\src\main\AndroidManifest.xml:3:5-34
+		INJECTED from C:\Users\bryan\OneDrive\Escritorio\Proyecto Final Unity PI2\ConoceUANL\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\bryan\OneDrive\Escritorio\Proyecto Final Unity PI2\ConoceUANL\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\bryan\OneDrive\Escritorio\Proyecto Final Unity PI2\ConoceUANL\src\main\AndroidManifest.xml
+		ADDED from C:\Users\bryan\OneDrive\Escritorio\Proyecto Final Unity PI2\ConoceUANL\src\main\AndroidManifest.xml:2:1-102:12
+		INJECTED from C:\Users\bryan\OneDrive\Escritorio\Proyecto Final Unity PI2\ConoceUANL\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\bryan\OneDrive\Escritorio\Proyecto Final Unity PI2\ConoceUANL\src\main\AndroidManifest.xml
+		ADDED from C:\Users\bryan\OneDrive\Escritorio\Proyecto Final Unity PI2\ConoceUANL\src\main\AndroidManifest.xml:2:1-102:12
+		INJECTED from C:\Users\bryan\OneDrive\Escritorio\Proyecto Final Unity PI2\ConoceUANL\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\bryan\OneDrive\Escritorio\Proyecto Final Unity PI2\ConoceUANL\src\main\AndroidManifest.xml:2:11-69
+	android:installLocation
+		ADDED from C:\Users\bryan\OneDrive\Escritorio\Proyecto Final Unity PI2\ConoceUANL\src\main\AndroidManifest.xml:4:5-45
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from C:\Users\bryan\OneDrive\Escritorio\Proyecto Final Unity PI2\ConoceUANL\src\main\AndroidManifest.xml:11:5-79
+	android:name
+		ADDED from C:\Users\bryan\OneDrive\Escritorio\Proyecto Final Unity PI2\ConoceUANL\src\main\AndroidManifest.xml:11:22-76
+uses-feature#android.hardware.Camera
+ADDED from C:\Users\bryan\OneDrive\Escritorio\Proyecto Final Unity PI2\ConoceUANL\src\main\AndroidManifest.xml:13:5-15:35
+	android:required
+		ADDED from C:\Users\bryan\OneDrive\Escritorio\Proyecto Final Unity PI2\ConoceUANL\src\main\AndroidManifest.xml:15:9-32
+	android:name
+		ADDED from C:\Users\bryan\OneDrive\Escritorio\Proyecto Final Unity PI2\ConoceUANL\src\main\AndroidManifest.xml:14:9-47
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from C:\Users\bryan\OneDrive\Escritorio\Proyecto Final Unity PI2\ConoceUANL\src\main\AndroidManifest.xml:17:5-81
+	android:name
+		ADDED from C:\Users\bryan\OneDrive\Escritorio\Proyecto Final Unity PI2\ConoceUANL\src\main\AndroidManifest.xml:17:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\Users\bryan\OneDrive\Escritorio\Proyecto Final Unity PI2\ConoceUANL\src\main\AndroidManifest.xml:18:5-80
+	android:name
+		ADDED from C:\Users\bryan\OneDrive\Escritorio\Proyecto Final Unity PI2\ConoceUANL\src\main\AndroidManifest.xml:18:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\bryan\OneDrive\Escritorio\Proyecto Final Unity PI2\ConoceUANL\src\main\AndroidManifest.xml:19:5-81
+MERGED from [:VuforiaWrapper:] C:\Users\bryan\.gradle\caches\transforms-2\files-2.1\4ffdfda801b4d22aef62fe634db90c4f\AndroidManifest.xml:17:5-81
+MERGED from [:VuforiaWrapper:] C:\Users\bryan\.gradle\caches\transforms-2\files-2.1\4ffdfda801b4d22aef62fe634db90c4f\AndroidManifest.xml:17:5-81
+	android:name
+		ADDED from C:\Users\bryan\OneDrive\Escritorio\Proyecto Final Unity PI2\ConoceUANL\src\main\AndroidManifest.xml:19:22-78
+uses-permission#android.permission.CAMERA
+ADDED from C:\Users\bryan\OneDrive\Escritorio\Proyecto Final Unity PI2\ConoceUANL\src\main\AndroidManifest.xml:20:5-65
+MERGED from [:VuforiaWrapper:] C:\Users\bryan\.gradle\caches\transforms-2\files-2.1\4ffdfda801b4d22aef62fe634db90c4f\AndroidManifest.xml:15:5-65
+MERGED from [:VuforiaWrapper:] C:\Users\bryan\.gradle\caches\transforms-2\files-2.1\4ffdfda801b4d22aef62fe634db90c4f\AndroidManifest.xml:15:5-65
+	android:name
+		ADDED from C:\Users\bryan\OneDrive\Escritorio\Proyecto Final Unity PI2\ConoceUANL\src\main\AndroidManifest.xml:20:22-62
+uses-feature#0x00020000
+ADDED from C:\Users\bryan\OneDrive\Escritorio\Proyecto Final Unity PI2\ConoceUANL\src\main\AndroidManifest.xml:22:5-54
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\bryan\.gradle\caches\transforms-2\files-2.1\9a6cc72e894b8510ed89eb9fe71c2d55\AndroidManifest.xml:26:5-28:35
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\bryan\.gradle\caches\transforms-2\files-2.1\9a6cc72e894b8510ed89eb9fe71c2d55\AndroidManifest.xml:26:5-28:35
+	android:glEsVersion
+		ADDED from C:\Users\bryan\OneDrive\Escritorio\Proyecto Final Unity PI2\ConoceUANL\src\main\AndroidManifest.xml:22:19-51
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\bryan\.gradle\caches\transforms-2\files-2.1\9a6cc72e894b8510ed89eb9fe71c2d55\AndroidManifest.xml:28:9-32
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\bryan\OneDrive\Escritorio\Proyecto Final Unity PI2\ConoceUANL\src\main\AndroidManifest.xml:24:5-67
+MERGED from [:VuforiaWrapper:] C:\Users\bryan\.gradle\caches\transforms-2\files-2.1\4ffdfda801b4d22aef62fe634db90c4f\AndroidManifest.xml:14:5-67
+MERGED from [:VuforiaWrapper:] C:\Users\bryan\.gradle\caches\transforms-2\files-2.1\4ffdfda801b4d22aef62fe634db90c4f\AndroidManifest.xml:14:5-67
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\bryan\.gradle\caches\transforms-2\files-2.1\9a6cc72e894b8510ed89eb9fe71c2d55\AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\bryan\.gradle\caches\transforms-2\files-2.1\9a6cc72e894b8510ed89eb9fe71c2d55\AndroidManifest.xml:24:5-67
+	android:name
+		ADDED from C:\Users\bryan\OneDrive\Escritorio\Proyecto Final Unity PI2\ConoceUANL\src\main\AndroidManifest.xml:24:22-64
+uses-feature#android.hardware.camera
+ADDED from C:\Users\bryan\OneDrive\Escritorio\Proyecto Final Unity PI2\ConoceUANL\src\main\AndroidManifest.xml:26:5-28:36
+MERGED from [:VuforiaWrapper:] C:\Users\bryan\.gradle\caches\transforms-2\files-2.1\4ffdfda801b4d22aef62fe634db90c4f\AndroidManifest.xml:12:5-60
+MERGED from [:VuforiaWrapper:] C:\Users\bryan\.gradle\caches\transforms-2\files-2.1\4ffdfda801b4d22aef62fe634db90c4f\AndroidManifest.xml:12:5-60
+	android:required
+		ADDED from C:\Users\bryan\OneDrive\Escritorio\Proyecto Final Unity PI2\ConoceUANL\src\main\AndroidManifest.xml:28:9-33
+		MERGED from C:\Users\bryan\OneDrive\Escritorio\Proyecto Final Unity PI2\ConoceUANL\src\main\AndroidManifest.xml:28:9-33
+	android:name
+		ADDED from C:\Users\bryan\OneDrive\Escritorio\Proyecto Final Unity PI2\ConoceUANL\src\main\AndroidManifest.xml:27:9-47
+uses-feature#android.hardware.camera.autofocus
+ADDED from C:\Users\bryan\OneDrive\Escritorio\Proyecto Final Unity PI2\ConoceUANL\src\main\AndroidManifest.xml:29:5-31:36
+	android:required
+		ADDED from C:\Users\bryan\OneDrive\Escritorio\Proyecto Final Unity PI2\ConoceUANL\src\main\AndroidManifest.xml:31:9-33
+	android:name
+		ADDED from C:\Users\bryan\OneDrive\Escritorio\Proyecto Final Unity PI2\ConoceUANL\src\main\AndroidManifest.xml:30:9-57
+uses-feature#android.hardware.camera.front
+ADDED from C:\Users\bryan\OneDrive\Escritorio\Proyecto Final Unity PI2\ConoceUANL\src\main\AndroidManifest.xml:32:5-34:36
+	android:required
+		ADDED from C:\Users\bryan\OneDrive\Escritorio\Proyecto Final Unity PI2\ConoceUANL\src\main\AndroidManifest.xml:34:9-33
+	android:name
+		ADDED from C:\Users\bryan\OneDrive\Escritorio\Proyecto Final Unity PI2\ConoceUANL\src\main\AndroidManifest.xml:33:9-53
+uses-feature#android.hardware.touchscreen
+ADDED from C:\Users\bryan\OneDrive\Escritorio\Proyecto Final Unity PI2\ConoceUANL\src\main\AndroidManifest.xml:35:5-37:36
+	android:required
+		ADDED from C:\Users\bryan\OneDrive\Escritorio\Proyecto Final Unity PI2\ConoceUANL\src\main\AndroidManifest.xml:37:9-33
+	android:name
+		ADDED from C:\Users\bryan\OneDrive\Escritorio\Proyecto Final Unity PI2\ConoceUANL\src\main\AndroidManifest.xml:36:9-52
+uses-feature#android.hardware.touchscreen.multitouch
+ADDED from C:\Users\bryan\OneDrive\Escritorio\Proyecto Final Unity PI2\ConoceUANL\src\main\AndroidManifest.xml:38:5-40:36
+	android:required
+		ADDED from C:\Users\bryan\OneDrive\Escritorio\Proyecto Final Unity PI2\ConoceUANL\src\main\AndroidManifest.xml:40:9-33
+	android:name
+		ADDED from C:\Users\bryan\OneDrive\Escritorio\Proyecto Final Unity PI2\ConoceUANL\src\main\AndroidManifest.xml:39:9-63
+uses-feature#android.hardware.touchscreen.multitouch.distinct
+ADDED from C:\Users\bryan\OneDrive\Escritorio\Proyecto Final Unity PI2\ConoceUANL\src\main\AndroidManifest.xml:41:5-43:36
+	android:required
+		ADDED from C:\Users\bryan\OneDrive\Escritorio\Proyecto Final Unity PI2\ConoceUANL\src\main\AndroidManifest.xml:43:9-33
+	android:name
+		ADDED from C:\Users\bryan\OneDrive\Escritorio\Proyecto Final Unity PI2\ConoceUANL\src\main\AndroidManifest.xml:42:9-72
+application
+ADDED from C:\Users\bryan\OneDrive\Escritorio\Proyecto Final Unity PI2\ConoceUANL\src\main\AndroidManifest.xml:45:5-100:19
+MERGED from [:VuforiaWrapper:] C:\Users\bryan\.gradle\caches\transforms-2\files-2.1\4ffdfda801b4d22aef62fe634db90c4f\AndroidManifest.xml:19:5-30:19
+MERGED from [:VuforiaWrapper:] C:\Users\bryan\.gradle\caches\transforms-2\files-2.1\4ffdfda801b4d22aef62fe634db90c4f\AndroidManifest.xml:19:5-30:19
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\bryan\.gradle\caches\transforms-2\files-2.1\a468c56884e400f1cb8f15dbe892fbf6\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\bryan\.gradle\caches\transforms-2\files-2.1\a468c56884e400f1cb8f15dbe892fbf6\AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\bryan\.gradle\caches\transforms-2\files-2.1\9a6cc72e894b8510ed89eb9fe71c2d55\AndroidManifest.xml:30:5-36:19
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\bryan\.gradle\caches\transforms-2\files-2.1\9a6cc72e894b8510ed89eb9fe71c2d55\AndroidManifest.xml:30:5-36:19
+MERGED from [com.google.android.gms:play-services-location:17.0.0] C:\Users\bryan\.gradle\caches\transforms-2\files-2.1\849d2c0efb70972a9247ff6585d89174\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-location:17.0.0] C:\Users\bryan\.gradle\caches\transforms-2\files-2.1\849d2c0efb70972a9247ff6585d89174\AndroidManifest.xml:7:5-20
+MERGED from [com.google.maps.android:android-maps-utils:0.5] C:\Users\bryan\.gradle\caches\transforms-2\files-2.1\11fe442f3bf1b300bcc3b4b60008ea11\AndroidManifest.xml:7:5-11:19
+MERGED from [com.google.maps.android:android-maps-utils:0.5] C:\Users\bryan\.gradle\caches\transforms-2\files-2.1\11fe442f3bf1b300bcc3b4b60008ea11\AndroidManifest.xml:7:5-11:19
+MERGED from [com.android.volley:volley:1.1.1] C:\Users\bryan\.gradle\caches\transforms-2\files-2.1\0e0d4731c051b890f353f5c4f30652d8\AndroidManifest.xml:9:5-20
+MERGED from [com.android.volley:volley:1.1.1] C:\Users\bryan\.gradle\caches\transforms-2\files-2.1\0e0d4731c051b890f353f5c4f30652d8\AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\bryan\.gradle\caches\transforms-2\files-2.1\a22314e03cb3064bad9c3e43fc52330c\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\bryan\.gradle\caches\transforms-2\files-2.1\a22314e03cb3064bad9c3e43fc52330c\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] C:\Users\bryan\.gradle\caches\transforms-2\files-2.1\5c87c00bcb10149d84145ec2d635bb2e\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] C:\Users\bryan\.gradle\caches\transforms-2\files-2.1\5c87c00bcb10149d84145ec2d635bb2e\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\bryan\.gradle\caches\transforms-2\files-2.1\1bcd4843baef4e1eccd89e3f2ac91565\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\bryan\.gradle\caches\transforms-2\files-2.1\1bcd4843baef4e1eccd89e3f2ac91565\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\bryan\.gradle\caches\transforms-2\files-2.1\c227923a62573bea5c1f7a26a9c4b11a\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\bryan\.gradle\caches\transforms-2\files-2.1\c227923a62573bea5c1f7a26a9c4b11a\AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.core:core:1.1.0] C:\Users\bryan\.gradle\caches\transforms-2\files-2.1\9f3c975affe023690bbdb67ba6d424fb\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.1.0] C:\Users\bryan\.gradle\caches\transforms-2\files-2.1\9f3c975affe023690bbdb67ba6d424fb\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\bryan\.gradle\caches\transforms-2\files-2.1\18f45981d51201ee1fc5fe9ddc74b20f\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\bryan\.gradle\caches\transforms-2\files-2.1\18f45981d51201ee1fc5fe9ddc74b20f\AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.1.0] C:\Users\bryan\.gradle\caches\transforms-2\files-2.1\9f3c975affe023690bbdb67ba6d424fb\AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from C:\Users\bryan\OneDrive\Escritorio\Proyecto Final Unity PI2\ConoceUANL\src\main\AndroidManifest.xml:50:9-35
+	android:label
+		ADDED from C:\Users\bryan\OneDrive\Escritorio\Proyecto Final Unity PI2\ConoceUANL\src\main\AndroidManifest.xml:48:9-41
+	android:debuggable
+		ADDED from [:VuforiaWrapper:] C:\Users\bryan\.gradle\caches\transforms-2\files-2.1\4ffdfda801b4d22aef62fe634db90c4f\AndroidManifest.xml:19:18-44
+	android:largeHeap
+		ADDED from C:\Users\bryan\OneDrive\Escritorio\Proyecto Final Unity PI2\ConoceUANL\src\main\AndroidManifest.xml:49:9-33
+	android:icon
+		ADDED from C:\Users\bryan\OneDrive\Escritorio\Proyecto Final Unity PI2\ConoceUANL\src\main\AndroidManifest.xml:47:9-50
+	android:allowBackup
+		ADDED from C:\Users\bryan\OneDrive\Escritorio\Proyecto Final Unity PI2\ConoceUANL\src\main\AndroidManifest.xml:46:9-35
+	android:theme
+		ADDED from C:\Users\bryan\OneDrive\Escritorio\Proyecto Final Unity PI2\ConoceUANL\src\main\AndroidManifest.xml:51:9-59
+meta-data#com.google.android.geo.API_KEY
+ADDED from C:\Users\bryan\OneDrive\Escritorio\Proyecto Final Unity PI2\ConoceUANL\src\main\AndroidManifest.xml:61:9-63:55
+	android:value
+		ADDED from C:\Users\bryan\OneDrive\Escritorio\Proyecto Final Unity PI2\ConoceUANL\src\main\AndroidManifest.xml:63:13-52
+	android:name
+		ADDED from C:\Users\bryan\OneDrive\Escritorio\Proyecto Final Unity PI2\ConoceUANL\src\main\AndroidManifest.xml:62:13-58
+activity#com.FIME.ConoceUANL.Local
+ADDED from C:\Users\bryan\OneDrive\Escritorio\Proyecto Final Unity PI2\ConoceUANL\src\main\AndroidManifest.xml:65:9-67:69
+	android:label
+		ADDED from C:\Users\bryan\OneDrive\Escritorio\Proyecto Final Unity PI2\ConoceUANL\src\main\AndroidManifest.xml:67:13-57
+	android:name
+		ADDED from C:\Users\bryan\OneDrive\Escritorio\Proyecto Final Unity PI2\ConoceUANL\src\main\AndroidManifest.xml:66:13-34
+activity#com.FIME.ConoceUANL.LocalAR
+ADDED from C:\Users\bryan\OneDrive\Escritorio\Proyecto Final Unity PI2\ConoceUANL\src\main\AndroidManifest.xml:68:9-45
+	android:name
+		ADDED from C:\Users\bryan\OneDrive\Escritorio\Proyecto Final Unity PI2\ConoceUANL\src\main\AndroidManifest.xml:68:19-42
+activity#com.FIME.ConoceUANL.Localizador
+ADDED from C:\Users\bryan\OneDrive\Escritorio\Proyecto Final Unity PI2\ConoceUANL\src\main\AndroidManifest.xml:69:9-49
+	android:name
+		ADDED from C:\Users\bryan\OneDrive\Escritorio\Proyecto Final Unity PI2\ConoceUANL\src\main\AndroidManifest.xml:69:19-46
+activity#com.FIME.ConoceUANL.Facultades
+ADDED from C:\Users\bryan\OneDrive\Escritorio\Proyecto Final Unity PI2\ConoceUANL\src\main\AndroidManifest.xml:70:9-48
+	android:name
+		ADDED from C:\Users\bryan\OneDrive\Escritorio\Proyecto Final Unity PI2\ConoceUANL\src\main\AndroidManifest.xml:70:19-45
+activity#com.FIME.ConoceUANL.Inicio
+ADDED from C:\Users\bryan\OneDrive\Escritorio\Proyecto Final Unity PI2\ConoceUANL\src\main\AndroidManifest.xml:71:9-44
+	android:name
+		ADDED from C:\Users\bryan\OneDrive\Escritorio\Proyecto Final Unity PI2\ConoceUANL\src\main\AndroidManifest.xml:71:19-41
+activity#com.FIME.ConoceUANL.MainActivity
+ADDED from C:\Users\bryan\OneDrive\Escritorio\Proyecto Final Unity PI2\ConoceUANL\src\main\AndroidManifest.xml:72:9-78:20
+	android:name
+		ADDED from C:\Users\bryan\OneDrive\Escritorio\Proyecto Final Unity PI2\ConoceUANL\src\main\AndroidManifest.xml:72:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\bryan\OneDrive\Escritorio\Proyecto Final Unity PI2\ConoceUANL\src\main\AndroidManifest.xml:73:13-77:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\bryan\OneDrive\Escritorio\Proyecto Final Unity PI2\ConoceUANL\src\main\AndroidManifest.xml:74:17-69
+	android:name
+		ADDED from C:\Users\bryan\OneDrive\Escritorio\Proyecto Final Unity PI2\ConoceUANL\src\main\AndroidManifest.xml:74:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\bryan\OneDrive\Escritorio\Proyecto Final Unity PI2\ConoceUANL\src\main\AndroidManifest.xml:76:17-77
+	android:name
+		ADDED from C:\Users\bryan\OneDrive\Escritorio\Proyecto Final Unity PI2\ConoceUANL\src\main\AndroidManifest.xml:76:27-74
+meta-data#unity.build-id
+ADDED from C:\Users\bryan\OneDrive\Escritorio\Proyecto Final Unity PI2\ConoceUANL\src\main\AndroidManifest.xml:80:9-82:68
+	android:value
+		ADDED from C:\Users\bryan\OneDrive\Escritorio\Proyecto Final Unity PI2\ConoceUANL\src\main\AndroidManifest.xml:82:13-65
+	android:name
+		ADDED from C:\Users\bryan\OneDrive\Escritorio\Proyecto Final Unity PI2\ConoceUANL\src\main\AndroidManifest.xml:81:13-42
+meta-data#unity.splash-mode
+ADDED from C:\Users\bryan\OneDrive\Escritorio\Proyecto Final Unity PI2\ConoceUANL\src\main\AndroidManifest.xml:83:9-85:33
+	android:value
+		ADDED from C:\Users\bryan\OneDrive\Escritorio\Proyecto Final Unity PI2\ConoceUANL\src\main\AndroidManifest.xml:85:13-30
+	android:name
+		ADDED from C:\Users\bryan\OneDrive\Escritorio\Proyecto Final Unity PI2\ConoceUANL\src\main\AndroidManifest.xml:84:13-45
+meta-data#unity.splash-enable
+ADDED from C:\Users\bryan\OneDrive\Escritorio\Proyecto Final Unity PI2\ConoceUANL\src\main\AndroidManifest.xml:86:9-88:36
+	android:value
+		ADDED from C:\Users\bryan\OneDrive\Escritorio\Proyecto Final Unity PI2\ConoceUANL\src\main\AndroidManifest.xml:88:13-33
+	android:name
+		ADDED from C:\Users\bryan\OneDrive\Escritorio\Proyecto Final Unity PI2\ConoceUANL\src\main\AndroidManifest.xml:87:13-47
+activity#com.FIME.ConoceUANL.UnityPlayerActivity
+ADDED from C:\Users\bryan\OneDrive\Escritorio\Proyecto Final Unity PI2\ConoceUANL\src\main\AndroidManifest.xml:90:9-99:20
+	android:screenOrientation
+		ADDED from C:\Users\bryan\OneDrive\Escritorio\Proyecto Final Unity PI2\ConoceUANL\src\main\AndroidManifest.xml:95:13-51
+	android:label
+		ADDED from C:\Users\bryan\OneDrive\Escritorio\Proyecto Final Unity PI2\ConoceUANL\src\main\AndroidManifest.xml:93:13-45
+	android:launchMode
+		ADDED from C:\Users\bryan\OneDrive\Escritorio\Proyecto Final Unity PI2\ConoceUANL\src\main\AndroidManifest.xml:94:13-44
+	android:configChanges
+		ADDED from C:\Users\bryan\OneDrive\Escritorio\Proyecto Final Unity PI2\ConoceUANL\src\main\AndroidManifest.xml:92:13-194
+	android:name
+		ADDED from C:\Users\bryan\OneDrive\Escritorio\Proyecto Final Unity PI2\ConoceUANL\src\main\AndroidManifest.xml:91:13-48
+meta-data#unityplayer.UnityActivity
+ADDED from C:\Users\bryan\OneDrive\Escritorio\Proyecto Final Unity PI2\ConoceUANL\src\main\AndroidManifest.xml:96:13-98:40
+	android:value
+		ADDED from C:\Users\bryan\OneDrive\Escritorio\Proyecto Final Unity PI2\ConoceUANL\src\main\AndroidManifest.xml:98:17-37
+	android:name
+		ADDED from C:\Users\bryan\OneDrive\Escritorio\Proyecto Final Unity PI2\ConoceUANL\src\main\AndroidManifest.xml:97:17-57
+uses-sdk
+INJECTED from C:\Users\bryan\OneDrive\Escritorio\Proyecto Final Unity PI2\ConoceUANL\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\bryan\OneDrive\Escritorio\Proyecto Final Unity PI2\ConoceUANL\src\main\AndroidManifest.xml
+INJECTED from C:\Users\bryan\OneDrive\Escritorio\Proyecto Final Unity PI2\ConoceUANL\src\main\AndroidManifest.xml
+MERGED from [:VuforiaWrapper:] C:\Users\bryan\.gradle\caches\transforms-2\files-2.1\4ffdfda801b4d22aef62fe634db90c4f\AndroidManifest.xml:8:5-10:41
+MERGED from [:VuforiaWrapper:] C:\Users\bryan\.gradle\caches\transforms-2\files-2.1\4ffdfda801b4d22aef62fe634db90c4f\AndroidManifest.xml:8:5-10:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\bryan\.gradle\caches\transforms-2\files-2.1\02548f49cff994d3ef330aa840117f42\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\bryan\.gradle\caches\transforms-2\files-2.1\02548f49cff994d3ef330aa840117f42\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\bryan\.gradle\caches\transforms-2\files-2.1\a468c56884e400f1cb8f15dbe892fbf6\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\bryan\.gradle\caches\transforms-2\files-2.1\a468c56884e400f1cb8f15dbe892fbf6\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\bryan\.gradle\caches\transforms-2\files-2.1\9a6cc72e894b8510ed89eb9fe71c2d55\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\bryan\.gradle\caches\transforms-2\files-2.1\9a6cc72e894b8510ed89eb9fe71c2d55\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-location:17.0.0] C:\Users\bryan\.gradle\caches\transforms-2\files-2.1\849d2c0efb70972a9247ff6585d89174\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-location:17.0.0] C:\Users\bryan\.gradle\caches\transforms-2\files-2.1\849d2c0efb70972a9247ff6585d89174\AndroidManifest.xml:5:5-44
+MERGED from [com.google.maps.android:android-maps-utils:0.5] C:\Users\bryan\.gradle\caches\transforms-2\files-2.1\11fe442f3bf1b300bcc3b4b60008ea11\AndroidManifest.xml:5:5-43
+MERGED from [com.google.maps.android:android-maps-utils:0.5] C:\Users\bryan\.gradle\caches\transforms-2\files-2.1\11fe442f3bf1b300bcc3b4b60008ea11\AndroidManifest.xml:5:5-43
+MERGED from [com.android.volley:volley:1.1.1] C:\Users\bryan\.gradle\caches\transforms-2\files-2.1\0e0d4731c051b890f353f5c4f30652d8\AndroidManifest.xml:7:5-43
+MERGED from [com.android.volley:volley:1.1.1] C:\Users\bryan\.gradle\caches\transforms-2\files-2.1\0e0d4731c051b890f353f5c4f30652d8\AndroidManifest.xml:7:5-43
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\bryan\.gradle\caches\transforms-2\files-2.1\a22314e03cb3064bad9c3e43fc52330c\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\bryan\.gradle\caches\transforms-2\files-2.1\a22314e03cb3064bad9c3e43fc52330c\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] C:\Users\bryan\.gradle\caches\transforms-2\files-2.1\5c87c00bcb10149d84145ec2d635bb2e\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] C:\Users\bryan\.gradle\caches\transforms-2\files-2.1\5c87c00bcb10149d84145ec2d635bb2e\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\bryan\.gradle\caches\transforms-2\files-2.1\1bcd4843baef4e1eccd89e3f2ac91565\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\bryan\.gradle\caches\transforms-2\files-2.1\1bcd4843baef4e1eccd89e3f2ac91565\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\bryan\.gradle\caches\transforms-2\files-2.1\c227923a62573bea5c1f7a26a9c4b11a\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\bryan\.gradle\caches\transforms-2\files-2.1\c227923a62573bea5c1f7a26a9c4b11a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\bryan\.gradle\caches\transforms-2\files-2.1\6f242ff5280224f64b285ca2bd43872a\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\bryan\.gradle\caches\transforms-2\files-2.1\6f242ff5280224f64b285ca2bd43872a\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\bryan\.gradle\caches\transforms-2\files-2.1\71a3c93d14b2cc67b131b457604d694a\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\bryan\.gradle\caches\transforms-2\files-2.1\71a3c93d14b2cc67b131b457604d694a\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\bryan\.gradle\caches\transforms-2\files-2.1\bb2ac63db8a4508049458adb0ec0bc7a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\bryan\.gradle\caches\transforms-2\files-2.1\bb2ac63db8a4508049458adb0ec0bc7a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\bryan\.gradle\caches\transforms-2\files-2.1\3637357728435a81f2ead73ece17119b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\bryan\.gradle\caches\transforms-2\files-2.1\3637357728435a81f2ead73ece17119b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\bryan\.gradle\caches\transforms-2\files-2.1\9d89c2af825099202f55db973ce79831\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\bryan\.gradle\caches\transforms-2\files-2.1\9d89c2af825099202f55db973ce79831\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\bryan\.gradle\caches\transforms-2\files-2.1\61ca89a17819029ba66a1bf058308c0e\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\bryan\.gradle\caches\transforms-2\files-2.1\61ca89a17819029ba66a1bf058308c0e\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\bryan\.gradle\caches\transforms-2\files-2.1\f9294b96bca58582efc5816d1cf0521f\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\bryan\.gradle\caches\transforms-2\files-2.1\f9294b96bca58582efc5816d1cf0521f\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\bryan\.gradle\caches\transforms-2\files-2.1\cd7b14eb71400ec267ddcc8016d7903c\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\bryan\.gradle\caches\transforms-2\files-2.1\cd7b14eb71400ec267ddcc8016d7903c\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\bryan\.gradle\caches\transforms-2\files-2.1\cb5a43aa9d179f0252fce4c619ef1e72\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\bryan\.gradle\caches\transforms-2\files-2.1\cb5a43aa9d179f0252fce4c619ef1e72\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.1.0] C:\Users\bryan\.gradle\caches\transforms-2\files-2.1\9f3c975affe023690bbdb67ba6d424fb\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] C:\Users\bryan\.gradle\caches\transforms-2\files-2.1\9f3c975affe023690bbdb67ba6d424fb\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\bryan\.gradle\caches\transforms-2\files-2.1\7a89278ec8986b8ffec7978de19955d7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\bryan\.gradle\caches\transforms-2\files-2.1\7a89278ec8986b8ffec7978de19955d7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\bryan\.gradle\caches\transforms-2\files-2.1\18f45981d51201ee1fc5fe9ddc74b20f\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\bryan\.gradle\caches\transforms-2\files-2.1\18f45981d51201ee1fc5fe9ddc74b20f\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\bryan\.gradle\caches\transforms-2\files-2.1\ce6011598d03a73f1732825542e1cf81\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\bryan\.gradle\caches\transforms-2\files-2.1\ce6011598d03a73f1732825542e1cf81\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\bryan\.gradle\caches\transforms-2\files-2.1\86b66a2d9996b9db8ae9a9116254fd00\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\bryan\.gradle\caches\transforms-2\files-2.1\86b66a2d9996b9db8ae9a9116254fd00\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\bryan\.gradle\caches\transforms-2\files-2.1\33e02636501678b2d2b27b7bc80275f4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\bryan\.gradle\caches\transforms-2\files-2.1\33e02636501678b2d2b27b7bc80275f4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\bryan\.gradle\caches\transforms-2\files-2.1\91bb6a7d531b1a5b05c28cd6267f0f34\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\bryan\.gradle\caches\transforms-2\files-2.1\91bb6a7d531b1a5b05c28cd6267f0f34\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\bryan\.gradle\caches\transforms-2\files-2.1\2eabceee559971ea1b46c24aeccda957\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\bryan\.gradle\caches\transforms-2\files-2.1\2eabceee559971ea1b46c24aeccda957\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\bryan\.gradle\caches\transforms-2\files-2.1\ba6dfec165e21d69bf590e13627fcced\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\bryan\.gradle\caches\transforms-2\files-2.1\ba6dfec165e21d69bf590e13627fcced\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\bryan\.gradle\caches\transforms-2\files-2.1\0e35912e4e7df6052c75bf6862b6149a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\bryan\.gradle\caches\transforms-2\files-2.1\0e35912e4e7df6052c75bf6862b6149a\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\bryan\OneDrive\Escritorio\Proyecto Final Unity PI2\ConoceUANL\src\main\AndroidManifest.xml
+INJECTED from C:\Users\bryan\OneDrive\Escritorio\Proyecto Final Unity PI2\ConoceUANL\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\bryan\OneDrive\Escritorio\Proyecto Final Unity PI2\ConoceUANL\src\main\AndroidManifest.xml
+		ADDED from C:\Users\bryan\OneDrive\Escritorio\Proyecto Final Unity PI2\ConoceUANL\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\bryan\OneDrive\Escritorio\Proyecto Final Unity PI2\ConoceUANL\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\bryan\OneDrive\Escritorio\Proyecto Final Unity PI2\ConoceUANL\src\main\AndroidManifest.xml
+		ADDED from C:\Users\bryan\OneDrive\Escritorio\Proyecto Final Unity PI2\ConoceUANL\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\bryan\OneDrive\Escritorio\Proyecto Final Unity PI2\ConoceUANL\src\main\AndroidManifest.xml
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [:VuforiaWrapper:] C:\Users\bryan\.gradle\caches\transforms-2\files-2.1\4ffdfda801b4d22aef62fe634db90c4f\AndroidManifest.xml:16:5-79
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\bryan\.gradle\caches\transforms-2\files-2.1\9a6cc72e894b8510ed89eb9fe71c2d55\AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\bryan\.gradle\caches\transforms-2\files-2.1\9a6cc72e894b8510ed89eb9fe71c2d55\AndroidManifest.xml:23:5-79
+	android:name
+		ADDED from [:VuforiaWrapper:] C:\Users\bryan\.gradle\caches\transforms-2\files-2.1\4ffdfda801b4d22aef62fe634db90c4f\AndroidManifest.xml:16:22-76
+meta-data#com.google.ar.core
+ADDED from [:VuforiaWrapper:] C:\Users\bryan\.gradle\caches\transforms-2\files-2.1\4ffdfda801b4d22aef62fe634db90c4f\AndroidManifest.xml:22:9-24:40
+	android:value
+		ADDED from [:VuforiaWrapper:] C:\Users\bryan\.gradle\caches\transforms-2\files-2.1\4ffdfda801b4d22aef62fe634db90c4f\AndroidManifest.xml:24:13-37
+	android:name
+		ADDED from [:VuforiaWrapper:] C:\Users\bryan\.gradle\caches\transforms-2\files-2.1\4ffdfda801b4d22aef62fe634db90c4f\AndroidManifest.xml:23:13-46
+uses-library#com.osterhoutgroup.api.ext
+ADDED from [:VuforiaWrapper:] C:\Users\bryan\.gradle\caches\transforms-2\files-2.1\4ffdfda801b4d22aef62fe634db90c4f\AndroidManifest.xml:27:9-29:40
+	android:required
+		ADDED from [:VuforiaWrapper:] C:\Users\bryan\.gradle\caches\transforms-2\files-2.1\4ffdfda801b4d22aef62fe634db90c4f\AndroidManifest.xml:29:13-37
+	android:name
+		ADDED from [:VuforiaWrapper:] C:\Users\bryan\.gradle\caches\transforms-2\files-2.1\4ffdfda801b4d22aef62fe634db90c4f\AndroidManifest.xml:28:13-54
+uses-library#org.apache.http.legacy
+ADDED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\bryan\.gradle\caches\transforms-2\files-2.1\9a6cc72e894b8510ed89eb9fe71c2d55\AndroidManifest.xml:33:9-35:40
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\bryan\.gradle\caches\transforms-2\files-2.1\9a6cc72e894b8510ed89eb9fe71c2d55\AndroidManifest.xml:35:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\bryan\.gradle\caches\transforms-2\files-2.1\9a6cc72e894b8510ed89eb9fe71c2d55\AndroidManifest.xml:34:13-50
+meta-data#com.google.android.gms.version
+ADDED from [com.google.maps.android:android-maps-utils:0.5] C:\Users\bryan\.gradle\caches\transforms-2\files-2.1\11fe442f3bf1b300bcc3b4b60008ea11\AndroidManifest.xml:8:9-10:69
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\bryan\.gradle\caches\transforms-2\files-2.1\c227923a62573bea5c1f7a26a9c4b11a\AndroidManifest.xml:23:9-25:69
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\bryan\.gradle\caches\transforms-2\files-2.1\c227923a62573bea5c1f7a26a9c4b11a\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.maps.android:android-maps-utils:0.5] C:\Users\bryan\.gradle\caches\transforms-2\files-2.1\11fe442f3bf1b300bcc3b4b60008ea11\AndroidManifest.xml:10:13-66
+	android:name
+		ADDED from [com.google.maps.android:android-maps-utils:0.5] C:\Users\bryan\.gradle\caches\transforms-2\files-2.1\11fe442f3bf1b300bcc3b4b60008ea11\AndroidManifest.xml:9:13-58
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\bryan\.gradle\caches\transforms-2\files-2.1\a22314e03cb3064bad9c3e43fc52330c\AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\bryan\.gradle\caches\transforms-2\files-2.1\a22314e03cb3064bad9c3e43fc52330c\AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\bryan\.gradle\caches\transforms-2\files-2.1\a22314e03cb3064bad9c3e43fc52330c\AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\bryan\.gradle\caches\transforms-2\files-2.1\a22314e03cb3064bad9c3e43fc52330c\AndroidManifest.xml:24:13-79

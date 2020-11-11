@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="FACDYC" size="1.000000 1.000000" />
+    <ImageTarget name="FACPYA" size="1.000000 1.000000" />
+    <ImageTarget name="FARQ" size="1.000000 1.000000" />
+    <ImageTarget name="FCB" size="1.000000 1.000000" />
+    <ImageTarget name="FCFM" size="1.000000 1.000000" />
+    <ImageTarget name="FCQ" size="1.000000 1.000000" />
+    <ImageTarget name="FFyL" size="1.000000 1.000000" />
+    <ImageTarget name="FIC" size="1.000000 1.000000" />
+    <ImageTarget name="FIME" size="1.000000 1.000000" />
+    <ImageTarget name="FOD" size="1.000000 1.000000" />
+    <ImageTarget name="FTSyDH" size="1.000000 1.000000" />
+  </Tracking>
+</QCARConfig>

@@ -1,0 +1,4 @@
+#Tue Jun 09 17:14:30 CDT 2020
+base.0=C\:\\Users\\bryan\\OneDrive\\Escritorio\\Proyecto Final Unity PI2\\ConoceUANL\\build\\intermediates\\transforms\\dexMerger\\release\\0
+path.0=classes.dex
+renamed.0=classes.dex
